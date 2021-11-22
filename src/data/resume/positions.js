@@ -64,26 +64,26 @@ const positions = [
       'Assembled flight hardware in cleanroom.',
     ],
   },
-  {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  },
-  {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
+//  {
+//    company: 'Facebook',
+//    position: 'Intern',
+//    link: 'https://facebook.com',
+//    daterange: 'June 2013 - September 2013',
+//    points: [
+//      'Developed software in python for automated testing of servers.',
+//      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
+//      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+ //   ],
+//  },
+//  {
+//    company: 'SEDS-USA',
+//    position: 'At Large Board Member',
+//    link: 'http://seds.org',
+//    daterange: 'October 2013 - October 2014',
+//    points: [
+//      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
+//      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
+//    ],
   },
 ];
 
