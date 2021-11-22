@@ -1,28 +1,16 @@
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Co-founder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'Dept. of Industrial and Systems Engineering, Ohio State University',
+    position: 'Graduate Research Associate ',
+    link: 'https://csel.engineering.osu.edu/people/keller.974',
+    daterange: 'August 2021 - Present',
     points: [
-      'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-      'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+      'Graduate Research Associate in Department of Industrial and Systems Engineering,  specializing in Cognitive Systems Engineering.'
+      'My research interests include resilience engineering, computational modeling, and human-robot interaction in manned space operations.'
     ],
   },
   {
-    company: 'Skeptical Investments',
-    position: 'Co-founder',
-    link: 'http://skepticalinvestments.biz',
-    daterange: 'April 2017 - Present',
-    points: [
-      'Founded a micro-vc fund to throw token amounts of money at problems I find interesting.',
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-    ],
-  },
-  {
-    company: 'Enveritas',
+    company: 'Battellee Center for Science, Engineering, and Public Policy',
     position: 'Consultant',
     link: 'http://enveritas.org',
     daterange: 'September 2016 - 2018',
