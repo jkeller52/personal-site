@@ -15,9 +15,8 @@ const positions = [
     link: 'battellecenter.osu.edu',
     daterange: 'April 2021 - August 2021',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Systems engineer contractor supporting project management and engineering efforts for large-scale energy systems project. ',
+      'Contributed to concept of operations creation for energy technology and was involved in strategic consulting with management and engineers to help facilitate rapid innovation.',
     ],
   },
   {
