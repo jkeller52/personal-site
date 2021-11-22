@@ -10,10 +10,10 @@ const positions = [
     ],
   },
   {
-    company: 'Battellee Center for Science, Engineering, and Public Policy',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - 2018',
+    company: 'Battelle Center for Science, Engineering, and Public Policy, Ohio State University',
+    position: 'Student Research Asssociate',
+    link: 'battellecenter.osu.edu',
+    daterange: 'April 2021 - August 2021',
     points: [
       'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
       'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
@@ -21,23 +21,25 @@ const positions = [
     ],
   },
   {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'https://zenysis.com',
-    daterange: 'February 2016 - March 2016',
+    company: 'Resilient Cognitive Solutions',
+    position: 'Cognitive Systems Engineering Intern',
+    link: 'https://resilientcognitivesolutions.com',
+    daterange: 'Summer 2019 & Summer 2020',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Contributed to the design of decision support systems for intelligence analysts.',
+      'Leveraged cognitive systems engineering methods including cognitive work analysis to develop software for expert practitioners facing data overload in complex work environments'
+      'Became proficient creating advanced decision-support interfaces in Adobe Illustrator and InDesign.',
     ],
   },
   {
-    company: 'Matroid',
-    position: 'Co-founder',
-    link: 'https://matroid.com',
-    daterange: 'July 2015 - January 2016',
+    company: 'Dept. of Industrial and Systems Engineering, Ohio State University',
+    position: 'Undergraduate Research Assistant',
+    link: 'https://csel.engineering.osu.edu/people/keller.974',
+    daterange: 'August 2018 - May 2021',
     points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
+      'Performed literature searches on human-robot interaction (HRI), software resilience engineering, and joint human-machine intel analysis.',
+      'Contributed to development of experimental HRI testbed enabling low-overhead simulations of human-robot space operations.',
+      'Contributed experimental design of human-in-the-loop intelligence analysis study testing join human-machine team performance.'
     ],
   },
   {
@@ -81,16 +83,6 @@ const positions = [
     points: [
       'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
       'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    company: 'UB Nanosatellite Program',
-    position: 'Co-founder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
-    points: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
     ],
   },
 ];
