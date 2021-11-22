@@ -38,7 +38,7 @@ const data = [
  //   link: 'https://twitter.com/username',
  //   label: 'Twitter',
  //   icon: faTwitter,
-  },
+//  },
   {
     link: 'mailto:keller.974@osu.edu',
     label: 'Email',
