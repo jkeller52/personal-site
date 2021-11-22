@@ -1,6 +1,6 @@
 // TODO: Add Athletic Skills, Office Skills,
 // Data Engineering, Data Science, ML Engineering, ... ?
-
+// to do: delete this section, link to LaTex Resume
 const skills = [
   {
     title: 'Javascript',
