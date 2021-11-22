@@ -1,6 +1,64 @@
 
 # Intro
 
+My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). Currently, I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State. My research interests include human-machine teaming, resilience engineering, and computational modeling.
+
+I continuously update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is always under construction. 
+
+
+Recent Conference Papers
+======
+### October 2021
+[Keller, J., IJtsma, M., & Newton, E. K. (2021)](https://jkeller52.github.io/files/Keller_IAC-21.D6.1.2x63854.pdf) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks Jacob Keller. International Astronautical Congress, October, 25–29.
+
+Keller, J., & IJtsma, M. (2021). Requirements For Computational Approaches To Analyzing Resilience In Human-Machine Teams. Human Factors and Ergonomics Society. Presented 10/6/2021 in Baltimore, Maryland, at the [Human Factors and Ergonomics Society](https://hfesam2021.conference-program.com/presentation/?id=LECT392&sess=sess105) 65th Annual Meeting. https://doi.org/10.1177/1071181321651248
+
+
+Research Interests
+======
+
+
+![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
+  <img align="center">
+  
+  *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
+
+
+Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of my efforts is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. Shrewd engineering practices drawn from Cognitive Systems Engineering and Resilience Engineering can inform the creation of sociotechnical systems that best promote these capabilities.
+
+Here are some of the relationships I'm interested in exploring in my work:
+- Costs of coordination associated with different information exchange modes or communication strategies
+- Relationships between human and machines agents working towards common goals
+- Resource limitations, goal tradeoffs, and delegation of authority and responsbility
+
+My interest in computational modeling and simulation relates directly to these pursuits, as a computational framework offers a low-overhead testbed for analyzing tradeoffs and complexities within work, provided ample care is taken in creating an ecologically valid representation of the work environment at hand. 
+
+Emerging methods for simulating the dynamics of work in human-robot teams could guide the development of sophisticated systems that exhibit resilient behavior when pushed past their performance boundaries, as discussed in [Keller and IJtsma, 2021](https://jkeller52.github.io/files/testbed_requirements_final.pdf). In general, a more methodical, ecologically valid, and interdisciplinary approach is necessary to advance our robotic capabilities. No amount of centralized planning or software profenciency will make the perfect system, therefore a paradigm shift towards designing modular, contextually-aware adaptive systems is necessary. 
+
+
+Robust, resilient, and decentralized human-robot systems will pave the way towards advanced operations within distributed teams, facilitating the ablity to dynamically delegate authority, responsibility, and taskloads to other agents in the midst of rapidly shifting demands common in uncertain and complex environments. 
+
+
+<figure>
+  <img align="center">
+  <img src='/images/Artemis.png' alt="NASA Artemis Concept Art">
+  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
+</figure>
+
+
+
+
+Other Interests
+======
+-Video Games
+-Astrophotography
+-Saxophone/Music
+-SCUBA Diving
+
+
+
+
+OLD TEXT
 I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
@@ -82,20 +140,5 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
 
-# Websites from people I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
