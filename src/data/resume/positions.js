@@ -5,8 +5,8 @@ const positions = [
     link: 'https://csel.engineering.osu.edu/people/keller.974',
     daterange: 'August 2021 - Present',
     points: [
-      'Graduate Research Associate in Department of Industrial and Systems Engineering,  specializing in Cognitive Systems Engineering.'
-      'My research interests include resilience engineering, computational modeling, and human-robot interaction in manned space operations.'
+      'Graduate Research Associate in Department of Industrial and Systems Engineering,  specializing in Cognitive Systems Engineering.',
+      'My research interests include resilience engineering, computational modeling, and human-robot interaction in manned space operations.',
     ],
   },
   {
@@ -26,7 +26,7 @@ const positions = [
     daterange: 'Summer 2019 & Summer 2020',
     points: [
       'Contributed to the design of decision support systems for intelligence analysts.',
-      'Leveraged cognitive systems engineering methods including cognitive work analysis to develop software for expert practitioners facing data overload in complex work environments'
+      'Leveraged cognitive systems engineering methods including cognitive work analysis to develop software for expert practitioners facing data overload in complex work environments',
       'Became proficient creating advanced decision-support interfaces in Adobe Illustrator and InDesign.',
     ],
   },
@@ -41,28 +41,28 @@ const positions = [
       'Contributed experimental design of human-in-the-loop intelligence analysis study testing join human-machine team performance.'
     ],
   },
+ // {
+ //   company: 'Planet',
+ //   position: 'Missions Intern',
+ //   link: 'https://planet.com',
+ //   daterange: 'June 2014 - January 2015',
+ //   points: [
+//      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
+//      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
+ //     'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+ //   ],
+//  },
   {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
-    points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  },
-  {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  },
+ //   company: 'Planetary Resources',
+//   position: 'Avionics Intern',
+//    link: 'http://planetaryresources.com',
+//    daterange: 'January 2014 - May 2014',
+//    points: [
+   //   'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
+ //     'Developed processes for in lab testing and characterization of various subsystems.',
+ //     'Assembled flight hardware in cleanroom.',
+ //   ],
+//  },
 //  {
 //    company: 'Facebook',
 //    position: 'Intern',
