@@ -1,6 +1,6 @@
 const positions = [
   {
-    company: 'Dept. of Industrial and Systems Engineering, Ohio State University',
+    company: 'Cognitive Systems Engineering Laboratory',
     position: 'Graduate Research Associate ',
     link: 'https://csel.engineering.osu.edu/people/keller.974',
     daterange: 'August 2021 - Present',
@@ -10,7 +10,7 @@ const positions = [
     ],
   },
   {
-    company: 'Battelle Center for Science, Engineering, and Public Policy, Ohio State University',
+    company: 'Battelle Center for Science, Engineering, and Public Policy',
     position: 'Student Research Asssociate',
     link: 'battellecenter.osu.edu',
     daterange: 'April 2021 - August 2021',
@@ -31,7 +31,7 @@ const positions = [
     ],
   },
   {
-    company: 'Dept. of Industrial and Systems Engineering, Ohio State University',
+    company: 'Cognitive Systems Engineering Laboratory',
     position: 'Undergraduate Research Assistant',
     link: 'https://csel.engineering.osu.edu/people/keller.974',
     daterange: 'August 2018 - May 2021',
