@@ -1,13 +1,13 @@
 const courses = [
   {
     title: 'Cognitive Systems Engineering',
-    number: 'IS 3700',
+    number: 'ISE 3700',
     link: 'http://stanford.edu/class/ee364a/',
     //  university: 'OSU',
   },
   {
     title: 'Aviation Human Factors and Safety',
-    number: 'AVIATN 2200',
+    number: 'AVIATN 3300',
     link: 'http://cs229.stanford.edu/',
   },
   {
@@ -49,8 +49,8 @@ const courses = [
     link: 'http://web.stanford.edu/class/ee278/',
   },
   {
-    title: 'Spacecraft Design',
-    number: 'AA 236A',
+    title: 'US Space Policy',
+    number: 'PUBAFR 3620',
     link: '',
     // university: 'Stanford',
   },
@@ -60,65 +60,30 @@ const courses = [
     link: '',
   },
   {
-    title: 'Design Theory and Methodology',
-    number: 'MAE 397',
+    title: 'Exploring Design Thinking',
+    number: 'Design 3105',
     link:
       'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
   },
   {
-    title: 'Software Engineering Concepts',
-    number: 'CSE 442',
+    title: 'Artificial Intelligence for Nonmajors',
+    number: 'CSE 6194',
     link: '',
   },
   {
-    title: 'Hardware/Software Integrated System Design',
-    number: 'CSE 453',
+    title: 'Cognitive Systems Engineering Design',
+    number: 'ISE 5770',
     link: '',
   },
   {
-    title: 'Data Structures',
-    number: 'CS 250',
+    title: 'Models and Methods in Cognitive Systems Engineering',
+    number: 'ISE 4193',
     link: 'http://www.cse.buffalo.edu/~hungngo/classes/2013/Fall/250/',
   },
   {
-    title: 'Introduction to Digital Signal Processing',
-    number: 'EE 516',
+    title: 'Chocolate Science',
+    number: 'FDSCTE 1110',
     link: '',
-  },
-  {
-    title: 'Computer Vision and Image Processing',
-    number: 'CSE 573',
-    link: 'http://cubs.buffalo.edu/~inwogu/teaching/Coursepage573_fa14/',
-  },
-  {
-    title: 'Realtime Embedded Systems',
-    number: 'CSE 321',
-    link: '',
-  },
-  {
-    title: 'Computer Architecture',
-    number: 'CSE 590',
-    link: 'http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11/',
-  },
-  {
-    title: 'Small Data',
-    number: 'MS&E 226',
-    link: 'http://web.stanford.edu/class/msande226/',
-  },
-  {
-    title: 'Stochastic Control',
-    number: 'EE 266',
-    link: 'http://ee266.stanford.edu/',
-  },
-  {
-    title: 'Simulation',
-    number: 'MS&E 223',
-    link: 'http://web.stanford.edu/class/msande223/handout.htm',
-  },
-  {
-    title: 'Deep Learning for Natural Language Processing',
-    number: 'CS 224d',
-    link: 'http://cs224d.stanford.edu/',
   },
 ];
 
