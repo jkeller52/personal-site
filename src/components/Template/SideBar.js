@@ -20,8 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jacob. I like building things.
-        I am a Graduate Research Associate in the Cognitive Systems Engineering Laboratory<a href="https://csel.engineering.osu.edu"> </a> within the Department of Integrated Systems Engineering at Ohio State. 
-        My research interests include human-machine teaming, resilience engineering, and computational modeling.
+        I am a Graduate Research Associate in the Cognitive Systems Engineering Laboratory<a href="https://csel.engineering.osu.edu"> </a> within the Department of Integrated Systems Engineering at Ohio State. My research interests include human-machine teaming, resilience engineering, and computational modeling.
       </p>
       <ul className="actions">
         <li>
