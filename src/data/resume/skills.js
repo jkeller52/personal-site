@@ -10,12 +10,12 @@ const skills = [
   {
     title: 'Cognitive Work Analysis',
     competency: 4,
-    category: ['Knowledge Elicitation', 'Ethnography'],
+    category: ['Knowledge Elicitation'],
   },
   {
     title: 'Hierarchical Task Analysis',
     competency: 3,
-    category: ['Ethnography', 'Knowledge Elicitation'],
+    category: ['Knowledge Elicitation'],
   },
   {
     title: 'Bash',
