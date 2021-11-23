@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
 
-   {
+  {
     title: 'A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks',
     link: 'https://journals.sagepub.com/doi/abs/10.1177/1071181321651248',
     subtitle: 'Presented October 6 at the Human Factors and Ergonomics Society Annual Meeting',
