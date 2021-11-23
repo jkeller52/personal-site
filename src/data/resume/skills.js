@@ -65,7 +65,7 @@ const skills = [
   {
     title: 'p5.js',
     competency: 2,
-    category: ['Software Languages' 'Design'],
+    category: ['Software Languages', 'Design'],
   },
   {
     title: 'Soldering',
