@@ -14,31 +14,11 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
- // {
-  //  link: 'https://facebook.com/md',
-  //  label: 'Facebook',
-  //  icon: faFacebookF,
-  //},
- // {
-   // link: 'https://www.instagram.com/dangelosaurus/',
-   // label: 'Instagram',
-   // icon: faInstagram,
-  //},
   {
     link: 'https://www.linkedin.com/in/jacobrkeller',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-//  {
- //   link: 'https://angel.co/username',
- //   label: 'Angel List',
- //   icon: faAngellist,
-//  },
-//  {
- //   link: 'https://twitter.com/username',
- //   label: 'Twitter',
- //   icon: faTwitter,
-//  },
   {
     link: 'mailto:keller.974@osu.edu',
     label: 'Email',
