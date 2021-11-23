@@ -26,4 +26,4 @@ jobs:
           git config user.name "jkeller52"
           git config user.email "jacobkeller52@gmail.com"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/jkeller52/personal-site.git
-          yarn gh-pages -d build
+          yarn gh-pages -b master -d build
