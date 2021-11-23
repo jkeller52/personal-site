@@ -13,24 +13,14 @@ const skills = [
     category: ['Cognitive Systems Engineering', 'Ethnography'],
   },
   {
-    title: 'React',
+    title: 'Hierarchical Task Analysis',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Ethnography', 'Cognitive Systems Engineering'],
   },
   {
     title: 'Bash',
     competency: 3,
     category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Flask',
-    competency: 2,
-    category: ['Web Development', 'Python'],
   },
   {
     title: 'Git',
@@ -60,7 +50,7 @@ const skills = [
   {
     title: 'Work Models that Compute',
     competency: 2,
-    category: ['Languages', 'Cognitive Systems Engineering'],
+    category: ['Languages', 'Cognitive Systems Engineering', 'Tools'],
   },
   {
     title: 'R',
