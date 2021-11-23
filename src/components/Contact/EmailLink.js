@@ -9,7 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'keller.974....I think?
+  'keller.974...I think?
   'hi',
   'hello',
   'hola',
