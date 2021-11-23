@@ -1,10 +1,25 @@
 
 # Intro
 
-My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). Currently, I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State. My research interests include human-machine teaming, resilience engineering, and computational modeling.
+My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). 
 
-I continuously update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is always under construction. 
+# Some history
 
+- My very first game console was the Nintendo Gamecube in 2007. Super Smash Bros Melee, LEGO Star Wars, and Super Monkey Ball 2 were my introduction to games. I was 9. 
+
+- Runescape shortly followed. My parents' entry level desktop computer became my campground. My Mom triumphantly declared I would "do something with computers" when I got older. She wasn't wrong.
+
+- At 10, I built my first website using Moonfruit, a now-defunct service that hosted Wordpress-Like website templates. This website allowed me to get around the school firewall by embedding my favorite browser-based Flash games on the website (which wasn't blacklisted by the school network, like other popular game hosts)
+
+- At 11, I got a Playstation 3 and became interested in recording & editing my gameplay, exposing me to media software inclduing Sony Vegas 10, Camtasia and Adobe Photoshop
+
+- From 14-17 I played lots of video games on my Xbox 360, and later Xbox One. Destiny 1 was a favorite. The intense teamwork choreography required in the 'raid' gamemodes was fascinating. 
+
+- Around 17 I got into modifying my first car, a 2006 Accord. With help from a friend, I refurbished all four wheels using a dremel tool, mineral spirits, wet-sanding, and primer/paint. I also installed a bluetooth stereo and soldered wires for the first time.
+
+- Towards the end of high school, I became interested in applying concepts from psychology to create better technology. This led me to pursue a degree in Psychology at Ohio State
+
+- Halfway through my first year of Undergrad, I discovered the Cognitive Systems Engineering Lab at OSU, drastically altering my academic path
 
 
 
@@ -61,21 +76,7 @@ Other Interests
 
 OLD TEXT
 
-# Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
 
 - When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
 
