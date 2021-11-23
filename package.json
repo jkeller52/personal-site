@@ -8,11 +8,9 @@
     "url": "https://github.com/jkeller52/personal-site.git"
   },
   "scripts": {
-    "build": "rimraf ./build && react-scripts build",
-//    "predeploy": "yarn run build",
-   "predeploy": "npm run build && react-snap",
-   "deploy": "gh-pages -d build",
-   // "deploy": "gh-pages -b master -d build",
+   "build": "rimraf ./build && react-scripts build",
+   "predeploy": "yarn run build",
+   "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "lint": "eslint src",
     "test": "react-scripts test --watchAll=false",
