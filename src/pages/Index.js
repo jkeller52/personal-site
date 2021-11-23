@@ -3,6 +3,13 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+// uses babel to load contents of file
+const markdown = raw('../data/Index.md');
+import ReactMarkdown from 'react-markdown';
+const count = markdown.split(/\s+/)
+  .map((s) => s.replace(/\W/g, ''))
+  .filter((s) => s.length).length;
+
 const Index = () => (
   <Main
     description={"Jacob Keller's personal website. Graduate Research Associate and MS Candidate at Ohio State University"}
@@ -23,6 +30,13 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <ReactMarkdown
+        source={markdown}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
     </article>
   </Main>
 );
