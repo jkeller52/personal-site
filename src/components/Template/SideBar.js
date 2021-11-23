@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jacob. I like building things.
-        I am a <a href="https://csel.engineering.osu.deu">OSU CSEL</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
+        I am a Graduate Research Associate in the Cognitive Systems Engineering Laboratory<a href="https://csel.engineering.osu.edu"> </a> within the Department of Integrated Systems Engineering at Ohio State. 
+        My research interests include human-machine teaming, resilience engineering, and computational modeling.
       </p>
       <ul className="actions">
         <li>
