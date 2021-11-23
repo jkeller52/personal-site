@@ -35,7 +35,7 @@ const courses = [
   },
   {
     title: 'Rapid Innovation for Public Impact',
-    number: 'CME 303',
+    number: 'PUBAFR 5620',
     link: 'http://web.stanford.edu/class/math220/index.html',
   },
   {
