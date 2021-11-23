@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Home",
+    label: 'Home',
     path: '/',
   },
   {
