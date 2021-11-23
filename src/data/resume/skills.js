@@ -5,22 +5,22 @@ const skills = [
   {
     title: 'Javascript',
     competency: 3,
-    category: ['Languages', 'Decision Support'],
+    category: ['Software Languages', 'Decision Support'],
   },
   {
     title: 'Cognitive Work Analysis',
     competency: 4,
-    category: ['Knowledge Elicitation Methods', 'Ethnography'],
+    category: ['Knowledge Elicitation', 'Ethnography'],
   },
   {
     title: 'Hierarchical Task Analysis',
     competency: 3,
-    category: ['Ethnography', 'Cognitive Systems Engineering'],
+    category: ['Ethnography', 'Knowledge Elicitation'],
   },
   {
     title: 'Bash',
     competency: 3,
-    category: ['Tools', 'Languages'],
+    category: ['Tools', 'Software Languages'],
   },
   {
     title: 'Git',
@@ -30,7 +30,7 @@ const skills = [
   {
     title: 'LaTeX',
     competency: 3,
-    category: ['Languages', 'Tools'],
+    category: ['Software Languages', 'Tools'],
   },
   {
     title: 'Markdown',
@@ -40,22 +40,22 @@ const skills = [
   {
     title: 'Python',
     competency: 4,
-    category: ['Languages'],
+    category: ['Software Languages'],
   },
   {
     title: 'C++',
     competency: 2,
-    category: ['Languages'],
+    category: ['Software Languages'],
   },
   {
-    title: 'Work Models that Compute',
+    title: 'Work Models that Compute (WMC)',
     competency: 2,
-    category: ['Cognitive Systems Engineering', 'Tools', 'Computational Techniques'],
+    category: ['Knowledge Elicitation', 'Tools', 'Computational Modeling/Simulation'],
   },
   {
     title: 'R',
     competency: 3,
-    category: ['Languages', 'Data Science'],
+    category: ['Software Languages', 'Data Science'],
   },
   {
     title: 'Tableau',
