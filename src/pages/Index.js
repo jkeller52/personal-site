@@ -5,7 +5,7 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../pages/Index.md');
+const markdown = raw('../data/Index.md');
 
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
