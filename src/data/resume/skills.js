@@ -5,7 +5,7 @@ const skills = [
   {
     title: 'Javascript',
     competency: 3,
-    category: ['Software Languages', 'Decision Support'],
+    category: ['Software Languages', 'Decision Support', 'Javascript'],
   },
   {
     title: 'Cognitive Work Analysis',
@@ -35,7 +35,7 @@ const skills = [
   {
     title: 'Markdown',
     competency: 4,
-    category: ['Languages'],
+    category: ['Software Languages'],
   },
   {
     title: 'Python',
