@@ -38,7 +38,7 @@ const positions = [
     points: [
       'Performed literature searches on human-robot interaction (HRI), software resilience engineering, and joint human-machine intel analysis.',
       'Contributed to development of experimental HRI testbed enabling low-overhead simulations of human-robot space operations.',
-      'Contributed experimental design of human-in-the-loop intelligence analysis study testing join human-machine team performance.'
+      'Contributed experimental design of human-in-the-loop intelligence analysis study testing join human-machine team performance.',
     ],
   },
 ];
