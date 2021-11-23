@@ -70,7 +70,7 @@ const skills = [
   {
     title: 'Soldering',
     competency: 3,
-    category: ['Miscellaneous', 'Electronics'],
+    category: ['Miscellaneous', 'Electronics']
   },
   {
     title: 'Saxophone',
