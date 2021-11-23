@@ -9,10 +9,8 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'keller.974...I think?'
-  'hi',
-  'hello',
-  'hola',
+  'keller.974...I think?',
+  'hello there',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
   'like-this',
