@@ -10,7 +10,7 @@ const skills = [
   {
     title: 'Node.JS',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Cognitive Engineering', 'Javascript'],
   },
   {
     title: 'React',
