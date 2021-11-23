@@ -5,7 +5,7 @@ const skills = [
   {
     title: 'Javascript',
     competency: 3,
-    category: ['Software Languages', 'Decision Support', 'Javascript'],
+    category: ['Software Languages', 'Decision Support'],
   },
   {
     title: 'Cognitive Work Analysis',
@@ -65,7 +65,7 @@ const skills = [
   {
     title: 'p5.js',
     competency: 2,
-    category: ['Tools', 'Data Science', 'Javascript'],
+    category: ['Tools', 'Data Science'],
   },
   {
     title: 'Soldering',
@@ -95,7 +95,7 @@ const skills = [
   {
     title: 'Interdependence Analysis',
     competency: 3,
-    category: ['Cognitive Systems Engineering'],
+    category: ['Knowledge Elicitation'],
   },
   {
     title: 'Adobe Premiere',
