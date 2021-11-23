@@ -85,6 +85,11 @@ const courses = [
     number: 'FDSCTE 1110',
     link: '',
   },
+  {
+    title: 'Technology and Society',
+    number: 'SOCIOL 3302',
+    link: '',
+  },
 ];
 
 export default courses;
