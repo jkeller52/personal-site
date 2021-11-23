@@ -2,7 +2,7 @@ const degrees = [
   {
     school: 'Ohio State University',
     degree: 'M.S. Industrial and Systems Engineering',
-    link: 'https://osu.edu',
+    link: 'https://ise.osu.edu/',
     year: 2023,
   },
   {
