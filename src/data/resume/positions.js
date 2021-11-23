@@ -15,8 +15,8 @@ const positions = [
     link: 'battellecenter.osu.edu',
     daterange: 'April 2021 - August 2021',
     points: [
-        'Systems engineer contractor supporting project management and engineering efforts for large-scale energy systems project. ',
-        'Contributed to concept of operations creation for energy technology and was involved in strategic consulting with management and engineers to help facilitate rapid innovation.',
+      'Systems engineer contractor supporting project management and engineering efforts for large-scale energy systems project. ',
+      'Contributed to concept of operations creation for energy technology and was involved in strategic consulting with management and engineers to help facilitate rapid innovation.',
     ],
   },
   {
