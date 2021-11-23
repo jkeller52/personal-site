@@ -12,7 +12,7 @@ const data = [
       + 'NearestDollar connected to your bank accounts, credit cards, '
       + 'or debit cards and rounded up your purchases to donate the balance to '
       + 'the charity of your choice.',
-  }, 
+  },
   {
     title: 'Computational Approaches to Analyzing Resilience in Human-Machine Teams',
     link: 'https://journals.sagepub.com/doi/abs/10.1177/1071181321651248',
