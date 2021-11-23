@@ -6,12 +6,6 @@ My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio 
 I continuously update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is always under construction. 
 
 
-Recent Conference Papers
-======
-### October 2021
-[Keller, J., IJtsma, M., & Newton, E. K. (2021)](https://jkeller52.github.io/files/Keller_IAC-21.D6.1.2x63854.pdf) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks Jacob Keller. International Astronautical Congress, October, 25–29.
-
-Keller, J., & IJtsma, M. (2021). Requirements For Computational Approaches To Analyzing Resilience In Human-Machine Teams. Human Factors and Ergonomics Society. Presented 10/6/2021 in Baltimore, Maryland, at the [Human Factors and Ergonomics Society](https://hfesam2021.conference-program.com/presentation/?id=LECT392&sess=sess105) 65th Annual Meeting. https://doi.org/10.1177/1071181321651248
 
 
 Research Interests
@@ -44,6 +38,14 @@ Robust, resilient, and decentralized human-robot systems will pave the way towar
   <img src='/images/Artemis.png' alt="NASA Artemis Concept Art">
   <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
 </figure>
+
+
+Recent Conference Papers
+======
+### October 2021
+[Keller, J., IJtsma, M., & Newton, E. K. (2021)](https://jkeller52.github.io/files/Keller_IAC-21.D6.1.2x63854.pdf) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks Jacob Keller. International Astronautical Congress, October, 25–29.
+
+Keller, J., & IJtsma, M. (2021). Requirements For Computational Approaches To Analyzing Resilience In Human-Machine Teams. Human Factors and Ergonomics Society. Presented 10/6/2021 in Baltimore, Maryland, at the [Human Factors and Ergonomics Society](https://hfesam2021.conference-program.com/presentation/?id=LECT392&sess=sess105) 65th Annual Meeting. https://doi.org/10.1177/1071181321651248
 
 
 
