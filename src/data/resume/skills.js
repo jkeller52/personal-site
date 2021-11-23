@@ -35,12 +35,12 @@ const skills = [
   {
     title: 'Markdown',
     competency: 4,
-    category: ['Languages', 'Tools'],
+    category: ['Languages'],
   },
   {
     title: 'Python',
     competency: 4,
-    category: ['Languages', 'Python'],
+    category: ['Languages'],
   },
   {
     title: 'C++',
@@ -50,7 +50,7 @@ const skills = [
   {
     title: 'Work Models that Compute',
     competency: 2,
-    category: ['Cognitive Systems Engineering', 'Tools'],
+    category: ['Cognitive Systems Engineering', 'Tools', 'Computational Techniques'],
   },
   {
     title: 'R',
