@@ -3,7 +3,7 @@ const courses = [
     title: 'Cognitive Systems Engineering',
     number: 'IS 3700',
     link: 'http://stanford.edu/class/ee364a/',
-    //university: 'OSU',
+    //  university: 'OSU',
   },
   {
     title: 'Aviation Human Factors and Safety',
@@ -14,14 +14,14 @@ const courses = [
     title: 'Visual Analytics and Sensemaking',
     number: 'ISE 5760',
     link: 'http://cs231n.stanford.edu/',
-    //university: 'Stanford',
+    //  university: 'Stanford',
   },
   {
     title: 'Data Analysis in Psychology',
     number: 'PSYCH 2220',
     link:
       'http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
-   // university: 'Stanford',
+    // university: 'Stanford',
   },
   {
     title: 'High Level Vision',
@@ -52,7 +52,7 @@ const courses = [
     title: 'Spacecraft Design',
     number: 'AA 236A',
     link: '',
-   // university: 'Stanford',
+    // university: 'Stanford',
   },
   {
     title: 'Research Methods in Psychology',
