@@ -4,10 +4,9 @@ import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
-// uses babel to load contents of file
-const markdown = raw('../data/Index.md');
-
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
+
+const markdown = raw('../data/Index.md');
 
 const Index = () => (
   <Main
@@ -23,7 +22,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Hi, I`&apos;`m Jacob. Please feel free to read more <Link to="/about">about me</Link>.
+      <p> Hi, Im Jacob. Please feel free to read more <Link to="/about">about me</Link>.
         You can also check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
