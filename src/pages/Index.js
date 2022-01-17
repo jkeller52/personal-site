@@ -16,14 +16,13 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
           <p>
-            This website includes professional interests, experiences,
-            and hobbies.
+            This is my personal and professional page with info about what I am up to
           </p>
         </div>
       </header>
-      <p> Hi, I`&apos;`m Jacob. Please feel free to read more <Link to="/about">about me</Link>.
+      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>.
         You can also check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
