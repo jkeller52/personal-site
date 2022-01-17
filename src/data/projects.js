@@ -5,7 +5,7 @@ const data = [
     title: 'A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks',
     link: 'https://journals.sagepub.com/doi/abs/10.1177/1071181321651248',
     subtitle: 'Presented October 6 at the Human Factors and Ergonomics Society Annual Meeting',
-    image: '/images/projects/IAC21.png',
+    image: '/images/projects/nearestdollar.jpg',
     date: '2021-10-06',
     desc:
       'Keller, J., IJtsma, M., & Newton, E. K. (2021) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks Jacob Keller. International Astronautical Congress, October, 25–29. '
@@ -17,7 +17,7 @@ const data = [
     title: 'Computational Approaches to Analyzing Resilience in Human-Machine Teams',
     link: 'https://journals.sagepub.com/doi/abs/10.1177/1071181321651248',
     subtitle: 'Presented October 6 at the Human Factors and Ergonomics Society Annual Meeting',
-    image: '/images/projects/HFES21.png',
+    image: '/images/projects/nearestdollar.jpg',
     date: '2021-10-06',
     desc:
       'Keller, J., & IJtsma, M. (2021). Requirements For Computational Approaches To Analyzing Resilience In Human-Machine Teams. Human Factors and Ergonomics Society. Presented 10/6/2021 in Baltimore, Maryland, at the Human Factors and Ergonomics Society 65th Annual Meeting. https://doi.org/10.1177/1071181321651248'
@@ -28,7 +28,7 @@ const data = [
   {
     title: 'Astrophotography in the Dominican Republic',
     subtitle: 'April 2021',
-    image: '/images/projects/Dominican1.png',
+    image: '/images/projects/nearestdollar.jpg',
     date: '2021-04-27',
     desc:
       'Built for a social impact hackathon. '
