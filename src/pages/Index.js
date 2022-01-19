@@ -11,14 +11,14 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Index = () => (
   <Main
-    description={"Jacob Keller's personal website. Graduate Research Associate and MS Candidate at Ohio State University"}
+    description={"Jacob Keller's personal website. Graduate Research Associate at Ohio State University"}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            This is my personal and professional page with info about what I am up to
+            Welcome to my website! I have a variety of personal and professional projects listed here
           </p>
         </div>
       </header>
