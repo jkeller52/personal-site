@@ -12,7 +12,7 @@ const positions = [
   {
     company: 'Battelle Center for Science, Engineering, and Public Policy',
     position: 'Student Research Asssociate',
-    link: 'battellecenter.osu.edu',
+    link: 'https://battellecenter.osu.edu',
     daterange: 'April 2021 - August 2021',
     points: [
       'Systems engineer contractor supporting project management and engineering efforts for large-scale energy systems project. ',
