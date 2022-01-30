@@ -19,8 +19,7 @@ const data = [
         + 'engineering and challenges/themes about AFSS. This sparked interest in writing a research paper based on'
         + 'information collected in interviews. The paper applies a transdisciplinary approach, providing background and'
         + 'context on autonomous flight safety systems before identifying key assumptions and engineering tradeoffs in its design'
-        + '',
-        
+        + '',    
   },
   {
     title: 'Computational Approaches to Analyzing Resilience in Human-Machine Teams',
