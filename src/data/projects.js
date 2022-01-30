@@ -49,7 +49,6 @@ const data = [
       + 'Stats:'
       + 'Camera: Sony a6000'
       + 'Lens:NEEWER 1.7f/35MM',
-      + 'Approximate Coordinates: '18°22'20.8"N 68°50'29.7"W''
   },
   {
     title: 'Autonomous Flight Safety Systems Student Project',

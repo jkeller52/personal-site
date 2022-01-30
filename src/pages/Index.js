@@ -18,7 +18,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            Personal and Professional Projects
+            Projects, Research, and Blog Posts
           </p>
         </div>
       </header>
