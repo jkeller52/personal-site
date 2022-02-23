@@ -8,7 +8,7 @@ My Research
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
 
 
-Broadly, I'm interested in exploring the interactions of humans and machines within complex work.
+Broadly, I'm curious about exploring the interactions of humans and machines within complex work.
 
 Here are some of the relationships I'm interested in exploring in my work:
 - Costs of coordination associated with different information exchange modes or communication strategies
@@ -24,7 +24,7 @@ Emerging methods for simulating the dynamics of work in human-robot teams could 
 Recent Conference Papers
 ======
 ### October 2021
-[Keller, J., IJtsma, M., & Newton, E. K. (2021)](https://jkeller52.github.io/files/Keller_IAC-21.D6.1.2x63854.pdf) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks Jacob Keller. International Astronautical Congress, October, 25–29.
+[Keller, J., IJtsma, M., & Newton, E. K. (2021)](https://jkeller52.github.io/files/Keller_IAC-21.D6.1.2x63854.pdf) A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks International Astronautical Congress, October, 25–29.
 
 Keller, J., & IJtsma, M. (2021). Requirements For Computational Approaches To Analyzing Resilience In Human-Machine Teams. Human Factors and Ergonomics Society. Presented 10/6/2021 in Baltimore, Maryland, at the [Human Factors and Ergonomics Society](https://hfesam2021.conference-program.com/presentation/?id=LECT392&sess=sess105) 65th Annual Meeting. https://doi.org/10.1177/1071181321651248
 
