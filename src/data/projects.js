@@ -1,7 +1,5 @@
 // TODO Add a couple lines about each project
 
-
-
 const data = [
 
   {
@@ -51,7 +49,8 @@ const data = [
   },
   // {
   //   title: 'PiGui',
-  //   subtitle: 'A beginner friendly IoT Touchscreen device using GPIO, Python, SSH, and shell scripts.',
+  //   subtitle: 'A beginner friendly IoT',
+  //   'Touchscreen device using GPIO, Python, SSH, and shell scripts.',
   //   // image: '/images/projects/nearestdollar.jpg',
   //   date: '2021-01-20',
   //   desc:

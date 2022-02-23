@@ -22,8 +22,9 @@ const SideBar = () => (
       <p>Hi, I&apos;m Jacob. I&apos;m a graduate engineering student interested in the intersection
         of people, technology, and design.
         I&apos;m interested in developing
-        decision-support software for future manned space operations, developing reactive and performant webpages,
-        and engineering resilient human-robot team configurations
+        decision-support software for future manned space operations,
+        developing reactive and performant webpages,
+        and engineering resilient human-robot teams.
       </p>
       <ul className="actions">
         <li>
