@@ -14,12 +14,10 @@ const data = [
         + 'surrounding autononomous flight safety systems (AFSS) for commercial space launches.'
         + 'Interviews were conducted with over eighty commerical stakeholders in government and industry, culminating'
         + 'in a whitepaper including both technical and policy recommendations.  '
-        + ''
         + 'Throughout the scope of this project, I noticed interesting connections between topics in cognitive systems'
         + 'engineering and challenges/themes about AFSS. This sparked interest in writing a research paper based on'
         + 'information collected in interviews. The paper applies a transdisciplinary approach, providing background and'
-        + 'context on autonomous flight safety systems before identifying key assumptions and engineering tradeoffs in its design'
-        + '',    
+        + 'context on autonomous flight safety systems before identifying key assumptions and engineering tradeoffs in its design',
   },
   {
     title: 'Computational Approaches to Analyzing Resilience in Human-Machine Teams',
@@ -41,19 +39,18 @@ const data = [
   {
     title: 'Astrophotography in the Dominican Republic',
     subtitle: 'April 2021 - Sony a6000',
-    image: '/images/projects/nearestdollar.jpg',
+    // image: '/images/projects/nearestdollar.jpg',
     date: '2021-04-27',
     desc:
       'Built for a social impact hackathon. '
-      + 'Stats:'
       + 'Camera: Sony a6000'
-      + 'Lens:NEEWER 1.7f/35MM',
+      + 'Lens: NEEWER 1.7f/35MM',
   },
   {
     title: 'Autonomous Flight Safety Systems Student Project',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    // image: '/images/projects/harvest.jpg',
     date: '2020-05-01',
     desc:
       'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
@@ -63,7 +60,7 @@ const data = [
   {
     title: 'piGUI',
     subtitle: 'A beginner friendly IoT Touchscreen device using Python and shell scripts.',
-    image: '/images/projects/nearestdollar.jpg',
+    // image: '/images/projects/nearestdollar.jpg',
     date: '2021-01-20',
     desc:
       'Built for a social impact hackathon. '
@@ -74,8 +71,8 @@ const data = [
   {
     title: 'Software Resilience Engineering Literature Search',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
+    // link: 'http://www.spacepotato.org',
+    // image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
     desc:
       'Launched a potato battery powered weather balloon with two cameras '

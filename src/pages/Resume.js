@@ -25,7 +25,7 @@ const sections = [
 const Resume = () => (
   <Main
     title="Resume"
-    description="Jacob Keller's Resume. Ohio State University, Battelle Center for Science, Engineeering & Public Policy, Resilient Cognitive Solutions."
+    description="Jacob Keller's Resume"
   >
     <article className="post" id="resume">
       <header>
