@@ -4,13 +4,11 @@ import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
-import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
-
-
+// import Cell from '../components/Projects/Cell';
+// import data from '../data/projects';
 
 // uses babel to load contents of file
-const markdown = raw('../data/pages/projects.md');
+const markdown = raw('../pages/projects.md');
 
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
@@ -19,12 +17,38 @@ const count = markdown.split(/\s+/)
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
+const Projects = () => (
+  <Main
+    title="Projects"
+    description="Learn about Jacob's projects"
+  >
+    <article className="post markdown" id="projects">
+      <header>
+        <div className="title">
+          <h2 data-testid="heading"><Link to="/Projects">Projects</Link></h2>
+          <p>(in about {count} words)</p>
+        </div>
+      </header>
+      <ReactMarkdown
+        source={markdown}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
+    </article>
+  </Main>
+);
 
+export default Projects;
+
+//
+// Legacy Code:
 // const Projects = () => (
 //   <Main
 //     title="Projects"
 //     description="Learn about Jacob's projects."
-//   >
+// >
 //     <article className="post" id="projects">
 //       <header>
 //         <div className="title">
@@ -42,4 +66,4 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 //   </Main>
 // );
 
-export default Projects;
+// export default Projects;

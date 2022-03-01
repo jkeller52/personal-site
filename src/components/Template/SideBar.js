@@ -19,12 +19,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Jacob. I&apos;m a graduate engineering student interested in the intersection
-        of people, technology, and design.
-        I&apos;m interested in developing
-        decision-support software for future manned space operations,
-        developing reactive and performant webpages,
-        and engineering resilient human-robot teams.
+      <p>Hi, I&apos;m Jacob. I&apos;m a systems engineering graduate student
+        who studies human-robot interaction. I&apos;m interested in developing
+        support tools for practitioners making complex decisions in uncertain
+        environments such as manned space operation extravehicular acticities.
+        My hobbies include web devlopment, IoT projects,
+        3D printing, playing saxophone, and
+        astrophotography.
       </p>
       <ul className="actions">
         <li>

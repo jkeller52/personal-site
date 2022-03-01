@@ -9,9 +9,11 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'keller.974...I think?',
+  'jacob',
+  'j-cub',
   'hello there',
-  'you-can-email-me-at-literally-anything! Really',
+  'you can email me at literally anything! Really',
+  'anything you can imagine',
   'well, not anything. But most things',
   'like-this',
   'or-this',
@@ -20,9 +22,10 @@ const messages = [
   'just-saying-hi',
   'please-work-for-us',
   'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+  'S.O.S',
+  'or I-really-like-your-website',
+  'still here?',
+  'thanks!',
 ];
 
 const useInterval = (callback, delay) => {
@@ -75,9 +78,9 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@osu.edu` : ''}>
+      <a href={validateText(message) ? `mailto:${message}@jacobkeller.io` : ''}>
         <span>{message}</span>
-        <span>@osu.edu</span>
+        <span>@jacobkeller.io</span>
       </a>
     </div>
   );

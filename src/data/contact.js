@@ -20,7 +20,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:keller.974@osu.edu',
+    link: 'mailto:jacob@jacobkeller.io',
     label: 'Email',
     icon: faEnvelope,
   },
