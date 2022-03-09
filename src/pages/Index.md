@@ -1,5 +1,7 @@
 My Research
 ======
+Read my most recent paper submission to the [2022 International Astronautical Congress](https://jkeller52.github.io/files/IAC-22_B3.6.pdf). This paper.
+
 
 
 ![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
@@ -8,16 +10,16 @@ My Research
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
 
 
-Broadly, I'm curious about exploring the interactions of humans and machines within complex work.
+My research focuses on the intersection of people and technology, relating concepts from psychology and systems engineering to support design and evaluation of human-machine teams performing complex, mission-critical tasks. 
 
 Here are some of the relationships I'm interested in exploring in my work:
 - Costs of coordination associated with different information exchange modes or communication strategies
 - Relationships between human and machines agents working towards common goals
-- Resource limitations, goal tradeoffs, and delegation of authority and responsbility
+- Resource limitations, goal tradeoffs, and delegations of authority and responsbility amongst teammates
 
 My interest in computational modeling and simulation frameworks offer a low-overhead testbed to envision, verify, and validate concepts of operations before investing resources to mature them. 
 
-Emerging methods for simulating the dynamics of work in human-robot teams could guide the development of sophisticated systems that exhibit resilient behavior when pushed past their performance boundaries, as discussed in [Keller and IJtsma, 2021](https://jkeller52.github.io/files/testbed_requirements_final.pdf). In general, a more methodical, ecologically valid, and interdisciplinary approach is necessary to advance our robotic capabilities. No amount of centralized planning or software profenciency will make the perfect system, therefore a paradigm shift towards designing modular, contextually-aware adaptive systems is necessary. 
+Emerging methods for simulating the dynamics of work in human-robot teams could guide the development of sophisticated systems that exhibit resilient behavior when pushed past their performance boundaries, as discussed in [Keller and IJtsma, 2021](https://jkeller52.github.io/files/testbed_requirements_final.pdf). In general, methodical, ecologically valid, and interdisciplinary approaches will necessary to support teamwork in complex environments where technology. No amount of centralized planning or software profenciency will make the perfect system, therefore a paradigm shift towards designing modular, contextually-aware adaptive systems is necessary. 
 
 
 
