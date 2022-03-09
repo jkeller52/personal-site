@@ -4,9 +4,7 @@ Hi, I'm Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio Sta
 
 This page has more information about my personal and professional interests.
 
-I'm interested in a wide range of DIY projects, including woodworking, electronics, and computer software & hardware. I especially like projects which draw elements from each.  
-
-
+I'm interested in a wide range of DIY projects, including woodworking, electronics, and computer software & hardware. I especially like projects which draw elements from each.
 
 ## Work Interests
 

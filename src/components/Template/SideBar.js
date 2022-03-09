@@ -20,7 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jacob. I&apos;m a systems engineering graduate student
-        who studies human-robot interaction. I&apos;m interested in developing
+        who studies human-robot interaction and braoder socio-technical systems.
+        I&apos;m interested in the design and evaluation of
         support tools for practitioners making complex decisions in uncertain
         environments such as manned space operation extravehicular acticities.
         My hobbies include web devlopment, IoT projects,
@@ -29,7 +30,7 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">Learn More</Link>}
         </li>
       </ul>
     </section>
