@@ -2,13 +2,11 @@
 ### Intro
 Hi, I'm Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). I'm currently a graduate student and researcher pursuing a Master's in Industrial and Systems Engineering at Ohio State.
 
-This page has more information about my personal and professional interests.
-
-I'm interested in a wide range of DIY projects, including woodworking, electronics, and computer software & hardware. I especially like projects which draw elements from each.
+I'm interested in a wide range of projects and application areas. I'm recently becoming involved in woodworking and developing my own computer software & hardware. I especially like interdiscipinary pursuits, such as developing embedded systems or using principles from psychology and systems engineering to support interaction design goals.
 
 ## Work Interests
 
-I'm interested in researching and developing technology enabling human-robot teamwork during future manned space exploration missions. In large part, this means understanding engineering tradeoffs surrounding automation with complex, mission-critical systems. 
+I'm interested in researching and developing technology enabling human-robot teamwork during future manned space exploration missions. In large part, this means understanding engineering tradeoffs surrounding automation within complex, mission-critical systems. 
 
 Here are some of the relationships I'm interested in exploring in my work:
 - Costs of coordination associated with different information exchange modes or communication strategies

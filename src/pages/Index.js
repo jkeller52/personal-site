@@ -16,17 +16,23 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
           <p>
             Projects, Research, and Blog Posts
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>.
-        You can also check out my {' '}
+      <p> Welcome! This site is one of many projects
+        I work on in my free time. It showcases a semi-complete
+        and ever-expanding portfolio of my personal and professional
+        interests. I am interested and excited
+        to improve it&apos;s
+        content and interactivity as I continue to learn
+        JavaScript and React.js.
+        For now, you can read more <Link to="/about">about me</Link>
+        , check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       <ReactMarkdown

@@ -10,9 +10,10 @@ import Main from '../layouts/Main';
 // uses babel to load contents of file
 const markdown = raw('../pages/projects.md');
 
-const count = markdown.split(/\s+/)
-  .map((s) => s.replace(/\W/g, ''))
-  .filter((s) => s.length).length;
+// used {count} to write wordcount in header
+// const count = markdown.split(/\s+/)
+//   .map((s) => s.replace(/\W/g, ''))
+//   .filter((s) => s.length).length;
 
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
@@ -26,7 +27,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/Projects">Projects</Link></h2>
-          <p>(in about {count} words)</p>
+          <p> A selection of some projects </p>
         </div>
       </header>
       <ReactMarkdown
