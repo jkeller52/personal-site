@@ -7,5 +7,5 @@ My personal website. An [MIT](https://github.com/mldangelo/personal-site/blob/ma
 
 ## Acknowledgements
 
-* Template adapted from [@mldangelo]((https://github.com/mldangelo/personal-site)
+* Template adapted from [@mldangelo](https://github.com/mldangelo/personal-site)
 * Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
