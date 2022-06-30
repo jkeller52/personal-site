@@ -11,7 +11,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Index = () => (
   <Main
-    description={"Jacob Keller's personal website. Graduate Research Associate at Ohio State University"}
+    description={"Jacob Keller's personal website"}
   >
     <article className="post" id="index">
       <header>
@@ -22,8 +22,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome! This site is one of many projects
-        I work on in my free time. It showcases a semi-complete
+      <p> Welcome! This site showcases a semi-complete
         and ever-expanding portfolio of my personal and professional
         interests. I am interested and excited
         to improve it&apos;s

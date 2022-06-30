@@ -1,5 +1,19 @@
 const positions = [
   {
+    company: 'Jacobs Technology, Inc.',
+    position: 'Exploration Engineer Intern',
+    link: '',
+    daterange: 'May 2022 - Present',
+    points: [
+      'Exploration engineer within the Astromaterials Research and Exploration Science Division (ARES) working to create novel software tools',
+      'and augmented reality aids enabling planning and execution capabilities for Artemis exploration extravehicular activity (xEVA).;',
+
+      'Conducts work onsite at NASA Johnson Space Center in Houston, TX, developing human-in-the-loop testbeds, conducting experiments,',
+      'and performing data analysis in support of the EVA Mission System Software (EMSS) initiative.',
+      'My research interests include resilience engineering, computational modeling, and human-robot interaction in manned space operations.',
+    ],
+  },
+  {
     company: 'Cognitive Systems Engineering Laboratory',
     position: 'Graduate Research Associate',
     link: 'https://csel.engineering.osu.edu/people/keller.974',
