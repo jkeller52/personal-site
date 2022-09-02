@@ -17,9 +17,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
-          <p>
-            Projects, Research, and Blog Posts
-          </p>
+          {/* <p>
+            Research, Projects
+          </p> */}
         </div>
       </header>
       <p> Welcome! This site showcases a semi-complete
@@ -28,9 +28,8 @@ const Index = () => (
         to improve it&apos;s
         content and interactivity as I continue to learn
         JavaScript and React.js.
-        For now, you can read more <Link to="/about">about me</Link>
-        , check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+        For now, you can read more <Link to="/about">about me</Link>,
+        check out my {' '}
         <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>

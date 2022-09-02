@@ -20,10 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jacob. I&apos;m a systems engineering graduate student
-        who studies human-robot interaction and socio-technical systems.
-        I&apos;m interested in the design and evaluation of
-        support tools for practitioners making complex decisions in uncertain
-        environments, particularly for manned space operation extravehicular acticities.
+        who studies human-machine interaction in complex sociotechnical systems,
+        particularly for manned space operation extravehicular acticities.
         My hobbies include web development, IoT projects,
         3D printing, playing saxophone, and
         astrophotography.

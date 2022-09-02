@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Houston, TX',
+    value: 'Columbus, OH',
   },
 ];
 

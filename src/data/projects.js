@@ -43,7 +43,7 @@ const data = [
     // image: '/images/projects/nearestdollar.jpg',
     date: '2021-04-27',
     desc:
-      'Built for a social impact hackathon. '
+      'Photos taken in Spring 2021 in Bayahibe, Dominican Republic.'
       + 'Camera: Sony a6000'
       + 'Lens: NEEWER 1.7f/35MM',
   },
