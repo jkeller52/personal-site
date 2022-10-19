@@ -20,15 +20,15 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jacob. I&apos;m a systems engineering graduate student
-        who studies human-machine interaction in complex sociotechnical systems,
-        particularly for manned space operation extravehicular acticities.
-        My hobbies include web development, IoT projects,
-        3D printing, playing saxophone, and
+        interested in developing novel decision-support tools for complex sociotechnical systems
+        such as space operation extravehicular activities.
+        My hobbies include 3D printing, playing saxophone,
+        IoT projects, and
         astrophotography.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">Learn More</Link>}
+          {!window.location.pathname.includes('/about') ? <Link to="/about" className="button">Learn More</Link> : <Link to="/about" className="button">Learn More</Link>}
         </li>
       </ul>
     </section>

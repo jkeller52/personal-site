@@ -1,17 +1,20 @@
-
 ## Intro
 Hi, I'm Jacob.
 
 I'm an engineering graduate student and researcher interested in creating decision-support tools and operational concepts for complex, mission-critical work. I bring an interdisciplinary approach to the development of novel sociotechnical systems, aligning the needs of expert practitioners and the capabilities at their disposal.
 
+
 My experiences have trained me in identifying approaches to improve decision-making and coordination/teamwork processes in domains including:
+- Space mission technology enabling future earth independence during planetary exploration (xEVA)
+- System-level implications and tradeoffs of automating flight termination systems for space launches
 - Rapid coordination and collaboration by DevOps engineers during critical digital service outages
 - Intelligence analyst data overload conditions when processing large amounts of SIGINT, OSINT, IMINT
-- System-level implications and tradeoffs of automating flight termination systems for space launches
 - Nuclear micro-reactor end-user transportation and deployment Concept of Operations
-- Space mission technology enabling future earth independence during planetary exploration (xEVA)
 
-Following the completion of my Master's degree in Spring 2023, I am pursuing full-time employment. You can find more about my professional experiences and competencies below:
+
+Following the completion of my Master's degree in Spring 2023, I am pursuing full-time employment. You can find more about my professional experiences and competencies below:  
+<p>&nbsp;</p>
+
 
 ## Academic Work
 - Graduate Research Associate, Cognitive Systems Engineering Laboratory at Ohio State University (2020-Present)
@@ -20,7 +23,7 @@ Following the completion of my Master's degree in Spring 2023, I am pursuing ful
 
 ## Industry Experience
 I have internship experience applying my research and academic background in various domains including:
-- Working at NASA Johnson Space Center to develop space mission technology for Artemis exploration extravehicular activity (xEVA)
+- Working at NASA Johnson Space Center to develop Augmented Reality (AR) technology for Artemis exploration extravehicular activity (xEVA)
 - Deveoping decision-support software for intelligence analysts facing data overload (2 summers)
 - Contributing to end-user deployment Concept of Operations for novel energy technology system
 
