@@ -10,6 +10,8 @@ import Main from '../layouts/Main';
 // uses babel to load contents of file
 const markdown = raw('../pages/projects.md');
 
+// const mdtable = require('./projects_table1.md');
+
 // used {count} to write wordcount in header
 // const count = markdown.split(/\s+/)
 //   .map((s) => s.replace(/\W/g, ''))
@@ -20,14 +22,14 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Projects = () => (
   <Main
-    title="Projects"
-    description="Learn about Jacob's projects"
+    title="What I Do"
+    description="Learn about Jacob's projects and interests"
   >
     <article className="post markdown" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/Projects">Projects</Link></h2>
-          <p> A selection of some projects </p>
+          <h2 data-testid="heading"><Link to="/Projects">What I Do </Link></h2>
+          <p> projects and interests </p>
         </div>
       </header>
       <ReactMarkdown

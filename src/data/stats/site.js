@@ -19,6 +19,11 @@ const data = [
     value: '2115',
     // link: 'https://github.com/jkeller52/personal-site/graphs/contributors',
   },
+  {
+    label: 'Site created',
+    key: 'pushed',
+    value: 'November 22, 2021',
+  },
 ];
 
 export default data;

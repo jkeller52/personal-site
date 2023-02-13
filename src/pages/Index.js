@@ -1,13 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ReactMarkdown from 'react-markdown';
-import raw from 'raw.macro';
 import Main from '../layouts/Main';
-
-// uses babel to load contents of file
-const markdown = raw('../pages/Index.md');
-
-const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Index = () => (
   <Main
@@ -16,7 +9,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
           {/* <p>
             Research, Projects
           </p> */}
@@ -24,22 +17,14 @@ const Index = () => (
       </header>
       <p> Welcome! This site showcases a semi-complete
         and ever-expanding portfolio of my personal and professional
-        interests. I am interested and excited
-        to improve it&apos;s
-        content and interactivity as I continue to learn
-        JavaScript and React.js.
-        For now, you can read more <Link to="/about">about me</Link>,
-        check out my {' '}
-        <Link to="/projects">projects</Link>, {' '}
+        interests.
+        You can read more <Link to="/about">about me</Link>,
+        learn about my upcoming <Link to="/PCT-2023">thru-hike</Link>,
+        {' '} see <Link to="/stats">site statistics</Link>
+        {' '}, check out my
+        <Link to="/projects"> projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <ReactMarkdown
-        source={markdown}
-        renderers={{
-          Link: LinkRenderer,
-        }}
-        escapeHtml={false}
-      />
     </article>
   </Main>
 );

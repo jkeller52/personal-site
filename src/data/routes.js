@@ -13,6 +13,10 @@ const routes = [
     path: '/projects',
   },
   {
+    label: 'PCT',
+    path: '/PCT-2023',
+  },
+  {
     label: 'Stats',
     path: '/stats',
   },
@@ -20,10 +24,7 @@ const routes = [
     label: 'Contact',
     path: '/contact',
   },
-  // {
-  //   label: 'Posts',
-  //   path: '/posts',
-  // },
+
   // {
   //   label: 'Resume',
   //   path: '/resume',

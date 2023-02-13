@@ -7,11 +7,7 @@
   
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork* -->
 
-My research focuses on the intersection of people, technology, and work, applying an [interdisciplinary approach](https://jacobkeller.io/about) to tackle wicked problems in complex, mission-critical work.
+My research focuses on the intersection of people, technology, and work, applying an [interdisciplinary approach](https://jacobkeller.io/projects) to tackle wicked problems in complex, mission-critical work.
 
-Here are some of the relationships I'm interested in exploring in my work:
-- Costs of coordination associated with different information exchange modes or communication strategies
-- Relationships between human and machines agents working towards common goals
-- Resource limitations, goal tradeoffs, and delegations of authority and responsbility amongst teammates
 
 <!-- My interest in computational modeling and simulation frameworks offer a low-overhead testbed to envision, verify, and validate concepts of operations before investing resources to mature them. These emerging methods to simulate the dynamics of work enable iterative development and testing cycles that culminate in systems which exhibit resilient behavior when pushed past their performance boundaries, as discussed in [Keller and IJtsma, 2021](https://jkeller52.github.io/files/testbed_requirements_final.pdf). In general, systematic, ecologically valid, and interdisciplinary approaches are necessary to support the introduction of novel technology in complex and unforgiving work environments. No amount of normative planning will result in a perfectly robust or infallible system, therefore a paradigm shift towards designing modular, contextually-adaptive systems is necessary. -->
