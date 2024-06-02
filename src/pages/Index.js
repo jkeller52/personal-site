@@ -19,7 +19,6 @@ const Index = () => (
         and ever-expanding portfolio of my personal and professional
         interests.
         You can read more <Link to="/about">about me</Link>,
-        learn about my upcoming <Link to="/PCT-2023">thru-hike</Link>,
         {' '} see <Link to="/stats">site statistics</Link>
         {' '}, check out my
         <Link to="/projects"> projects</Link>, {' '}

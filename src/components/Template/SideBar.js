@@ -9,22 +9,24 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/Headshot205x236.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/IMG_6845.JPEG`} alt="" />
       </Link>
       <header>
         <h2>Jacob Keller</h2>
-        <p><a href="mailto:keller.974@osu.edu">keller.974@osu.edu</a></p>
+        <p><a href="mailto:jacob@jacobkeller.io">jacob@jacobkeller.io</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Jacob. I&apos;m a systems engineering graduate student
-        who studies human-machine interaction in complex sociotechnical systems,
-        particularly for manned space operation extravehicular acticities.
-        My hobbies include web development, IoT projects,
-        3D printing, playing saxophone, and
-        astrophotography.
+      <p>Hi, I&apos;m Jacob. I&apos;m a systems engineer who builds software tools
+        for expert practitioners working in complex, mission critical work domains.
+        Currently, I&apos;m employed as an Exploration Engineer for Jacobs at NASA
+        Johnson Space Center, where I contribute to design, deployment,
+        and testing of novel software capabilities
+        for manned spaceflight extravehicular activites. My hobbies
+        include outdoor adventure, IoT projects,
+        3D printing, playing saxophone, and astrophotography.
       </p>
       <ul className="actions">
         <li>

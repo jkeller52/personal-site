@@ -8,14 +8,14 @@ const routes = [
     label: 'About',
     path: '/about',
   },
-  {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'PCT',
-    path: '/PCT-2023',
-  },
+  // {
+  //   label: 'Projects',
+  //   path: '/projects',
+  // },
+  // {
+  //   label: 'PCT',
+  //   path: '/PCT-2023',
+  // },
   {
     label: 'Stats',
     path: '/stats',

@@ -32,13 +32,7 @@ const data = [
   {
     key: 'natparks',
     label: 'Number of US National Parks visited',
-    value: '6',
-  },
-  {
-    key: 'rockwall',
-    label: 'Hardest Rock Wall Climbed',
-    value: '5.10 - Indoor',
-    link: 'https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html',
+    value: '13',
   },
   {
     key: 'countries',

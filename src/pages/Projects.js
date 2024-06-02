@@ -8,7 +8,7 @@ import Main from '../layouts/Main';
 // import data from '../data/projects';
 
 // uses babel to load contents of file
-const markdown = raw('../pages/projects.md');
+const markdown = raw('../data/projects.md');
 
 // const mdtable = require('./projects_table1.md');
 
